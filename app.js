@@ -193,4 +193,4 @@ function imgZoomOut4() {
 // console.log(document.childNodes[1].childNodes[2].childNodes[55].childNodes[3].nodeType);
 
 // sub-task 2
-console.log(document.childNodes[1].childNodes[2].childNodes[55].childNodes[5].childNodes[3].nodeType);
+// console.log(document.childNodes[1].childNodes[2].childNodes[55].childNodes[5].childNodes[3].nodeType);
