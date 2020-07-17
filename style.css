@@ -1,0 +1,46 @@
+#main{
+    border: 1px solid black;
+    width: 380px;
+    font-size: large;
+}
+
+
+#text1{
+    width: 150px;
+    height: 25px;
+    margin-bottom: 10px;
+    font-size: medium;
+    margin-left: 20px;
+}
+
+#text2{
+    width: 150px;
+    height: 25px;
+    margin-bottom: 10px;
+    font-size: medium;
+}
+
+#email,
+#pswd1,
+#pswd2{
+    height: 25px;
+    margin-bottom: 10px;
+    width: 300px;
+    font-size: medium;
+    margin-left: 20px;
+}
+
+#submit{
+    background-color: cyan;
+    width: 100px;
+    height: 30px;
+    font-size: 1em;
+    margin-left: 20px;
+}
+
+h1,
+#para, 
+#checkbox{
+    margin-left: 20px;
+}
+
